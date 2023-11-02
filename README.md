@@ -18,11 +18,11 @@ Nesta tela, é possível visualizar as funcionalidades disponíveis para cada n�
 Neste menu, é viável adicionar e gerenciar produtos, dividindo-se em duas seções:
 
 - **Adicionar Produto:** Aqui, é possível inserir um produto no sistema, com a opção de gerar um código aleatório (opcional) e adicionar informações como preço, nome, marca e quantidade. Automaticamente, o aplicativo calcula o valor total do estoque.
-![Adicionar Produto](https://github.com/LukasComK/MundoGelato/assets/70048434/230f5674-37b0-49c4-a3c9-f4517d7402fd)
+ ![Adicionar Produto](https://github.com/LukasComK/MundoGelato/assets/70048434/230f5674-37b0-49c4-a3c9-f4517d7402fd)
 
 
 - **Controle Geral:** Esta função permite a administração dos produtos cadastrados, oferecendo a possibilidade de editar ou excluir os produtos.
-![Administrar Produtos](https://github.com/LukasComK/MundoGelato/assets/70048434/7a1fcb55-b129-4abc-b3e0-8d00ddbea0dd)
+ ![Administrar Produtos](https://github.com/LukasComK/MundoGelato/assets/70048434/7a1fcb55-b129-4abc-b3e0-8d00ddbea0dd)
 
 
 ### Gerenciador de Funcionários
@@ -37,7 +37,7 @@ Senha é Definido Pelas 3 Primeiras Iniciais e sua data de nascimento Exemplo: L
 
 
 - **Administrar Funcionários:** Aqui, administradores e diretores têm acesso para gerenciar os funcionários, com opções de alterar, excluir e visualizar o login de cada um.
-![Administração de funcionarios](https://github.com/LukasComK/MundoGelato/assets/70048434/4b4d902e-4611-4d8d-a562-7951d96259e1)
+ ![Administração de funcionarios](https://github.com/LukasComK/MundoGelato/assets/70048434/4b4d902e-4611-4d8d-a562-7951d96259e1)
 
 
 ### Relatórios - Menu
@@ -59,7 +59,7 @@ Mostra todos os pedidos feitos na área de PDV, exibindo informações como quan
 
 
 - **Relatório de Pedidos Detalhado:** Esta seção detalha os produtos incluídos nos pedidos.
-![Relatorio de Pedidos Detalhado](https://github.com/LukasComK/MundoGelato/assets/70048434/a3d9559e-1440-46b8-af68-fe7b83bd9956)
+ ![Relatorio de Pedidos Detalhado](https://github.com/LukasComK/MundoGelato/assets/70048434/a3d9559e-1440-46b8-af68-fe7b83bd9956)
 
 
 ### Relatório de Vendas
