@@ -1,0 +1,2 @@
+*.vb linguist-language=vb
+*.sql linguist-language=sql
